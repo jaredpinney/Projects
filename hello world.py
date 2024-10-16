@@ -24,5 +24,5 @@ if int(age) >= 18:
     print("******************************")
 
 if int(age) <= 17: 
-    print("Apologies, you are but a wee lad, now scuttle back to your mum's teet")
+    print("Apologies, you are but a wee lad, now scuttle back to whence you came")
     print("*********************************************************************")
