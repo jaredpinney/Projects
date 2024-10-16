@@ -1,2 +1,2 @@
 # Projects
-Random Python projects
+Random Python projects made by yours truly ....along with some other libraries made or found :)
